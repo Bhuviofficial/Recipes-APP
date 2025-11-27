@@ -26,7 +26,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for managing an
 ### Setup
 ```bash
 # Clone repository
-git clone <  >
+git clone < https://github.com/Bhuviofficial/Recipes-APP >
 cd "Recipes APP"
 
 # Install dependencies
@@ -65,3 +65,7 @@ Recipes APP/
 
 ## License
 MIT License
+
+## API Documentation
+
+For detailed API documentation, visit [API Docs](https://documenter.getpostman.com/view/50347547/2sB3dLSqdr)
